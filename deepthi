@@ -25,4 +25,4 @@ git clone along with the url
      if i delete the file and check the git status it will shows as deleted
       if i add the file by using the command
        git add . it will send the file from working directory to staging area.
-       
+       git status to check the all info of a file 
