@@ -1,0 +1,28 @@
+when we are using git first have an account in github
+after that we have to install git bash account and after having gitbash open the git bash
+then first what we have to do after entering is 
+git config --global user.name "deepthichintha"
+git config --global user.email "deepthichintha2000@gmail.com"
+after that we have to copy the url of the repository then come back to git bash and then 
+enter 
+git clone along with the url
+ it will clone the data from the repository
+ after that go to that repository by using cd repo/
+ after we can see the files which we have in our repository
+ afte that what we have to do is 
+ touch file
+  git add file /git add .(after giving this comman it will goes from working directory to staging area)
+  after that we have to commit it by using the command
+    git commit -m "first commit"
+    git push origin main
+    it will push the files to the repository
+
+
+
+
+    after creating a file using touch file
+     after giving git status command it will shows that the file is in untracked file
+     if i delete the file and check the git status it will shows as deleted
+      if i add the file by using the command
+       git add . it will send the file from working directory to staging area.
+       
