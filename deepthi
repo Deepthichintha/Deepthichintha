@@ -25,4 +25,16 @@ git clone along with the url
      if i delete the file and check the git status it will shows as deleted
       if i add the file by using the command
        git add . it will send the file from working directory to staging area.
-       git status to check the all info of a file 
+       git status to check the all info of a file
+
+
+
+    next task is to create a branch how can we create a branch 
+     by using -------> git branch deepthi
+     ..............> it will create a branch with name deepthi
+     how to check weather the branch is created or not 
+     ......> if we give git branch command it will display the branches we have.
+
+
+
+
